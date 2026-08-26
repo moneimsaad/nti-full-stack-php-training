@@ -43,5 +43,12 @@ https://moneimsaad.github.io/nti-full-stack-php-training/Assignment-2/task-1-Fam
 `Assignment-2/task-1-Family_Bakery/`
 
 ---
+## Assignment-php1
+
+A collection of PHP tasks to practice basic PHP concepts including functions, arrays, loops, conditions, and forms.
+**Files:**
+`Assignment-php1/`
+
+---
 
 More assignments, sessions, and projects will be added throughout the training.
