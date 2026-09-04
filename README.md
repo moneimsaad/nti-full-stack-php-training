@@ -51,4 +51,16 @@ A collection of PHP tasks to practice basic PHP concepts including functions, ar
 
 ---
 
+## Assignment 3 - MySQL
+
+A simple PHP and MySQL website built to practice SQL queries, forms, login systems, and input validation.
+
+**Files:**
+`Assignment-3/`
+
+**Database:**
+`Assignment-3/database/task11_export.sql`
+
+---
+
 More assignments, sessions, and projects will be added throughout the training.
